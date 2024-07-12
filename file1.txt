@@ -1,2 +1,15 @@
-sourcef file1
-blablabla
+1) git status
+
+2) git commit -m "few change
+
+3) git add *
+
+
+4) git pull **********spasi i sohrahi vse izmenenija
+ 
+
+git clone git@github.com:Lefrani/Enceladus.git   ******* klonirivat s git
+
+
+pit push origin    poshlo v git
+
